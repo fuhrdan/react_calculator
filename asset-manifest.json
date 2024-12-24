@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fuhrdan/react_calculator.git/static/css/main.153e64cb.css",
+    "main.js": "/fuhrdan/react_calculator.git/static/js/main.aa02dbaf.js",
+    "index.html": "/fuhrdan/react_calculator.git/index.html",
+    "main.153e64cb.css.map": "/fuhrdan/react_calculator.git/static/css/main.153e64cb.css.map",
+    "main.aa02dbaf.js.map": "/fuhrdan/react_calculator.git/static/js/main.aa02dbaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153e64cb.css",
+    "static/js/main.aa02dbaf.js"
+  ]
+}
